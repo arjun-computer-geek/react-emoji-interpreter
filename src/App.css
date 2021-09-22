@@ -28,3 +28,14 @@
 .emoji:hover{
     cursor: pointer;
 }
+
+/* media query */
+@media only screen and (max-width: 600px) {
+    .container input{
+        width: 100%;
+        padding: 10px;
+    }
+    .container{
+        width: 100%;
+    }
+}
