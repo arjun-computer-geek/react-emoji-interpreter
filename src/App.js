@@ -8,7 +8,12 @@ var emojiDictionary = {
     "😜": "Winking Face With Tongue",
     "😐": "Neutral Face",
     "😒": "Unamused face",
-    "😈": "Smiling Face with Horns"
+    "😈": "Smiling Face with Horns",
+    "😘": "Face Blowing a Kiss",
+    "😷": "Face with Medical Mask",
+    "🤖": "Robot",
+    "🤟": "Love-You Gesture",
+    "🤙": "Call Me Hand"
   };
 
   const emojies = Object.keys(emojiDictionary);
